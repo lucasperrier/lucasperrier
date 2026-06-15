@@ -3,7 +3,7 @@
 Machine Learning Engineer with experience in scientific ML, time-series
 forecasting, and causal inference.
 
-Currently completing a Machine Learning Research internship at CEA Paris-Saclay.
+Currently completing an internship at CEA Paris-Saclay.
 Available for full-time roles from September 2026.
 
 ## Selected projects
